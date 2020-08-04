@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc lib\libutility.a  CMakeFiles/utility.dir/src/utility.cpp.obj
+C:\MinGW\bin\ranlib.exe lib\libutility.a

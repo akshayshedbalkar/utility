@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/programming/cpp/utility/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -IE:\\programming\\cpp\\utility\\src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles\\utility.dir\\src\\utility.cpp.obj -c E:\\programming\\cpp\\utility\\src\\utility.cpp",
+  "file": "E:/programming/cpp/utility/src/utility.cpp"
+}
+]
