@@ -3,6 +3,6 @@
 /build/Makefile
 /build/compile_commands.json
 /build/cmake_install.cmake
-/build/CMackeCache.txt
+/build/CMakeCache.txt
 tags
 
