@@ -13,9 +13,10 @@ void utility::enter_and_exit() {
 
 std::string utility::insert_commas(double number) {
     std::string s_number{std::to_string((long)number)};
-    int length{(int)s_number.length()};
 
+    int length{(int)s_number.length()};
     int count{0};
+
     for (int i{length - 1}; i >= 0; i--) {
         if (count < 2) {
             count++;
